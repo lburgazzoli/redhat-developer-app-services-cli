@@ -1,2 +1,5 @@
 [main.config.error]
 one = 'Error when initializing configuration: "{{.Error}}"'
+
+[main.update.error]
+one = 'Error when updating cli: "{{.Error}}"'
