@@ -4,7 +4,7 @@ go 1.16
 
 require (
 	github.com/AlecAivazis/survey/v2 v2.3.4
-	github.com/BurntSushi/toml v1.0.0
+	github.com/BurntSushi/toml v1.1.0
 	github.com/MakeNowJust/heredoc v1.0.0
 	github.com/Nerzal/gocloak/v7 v7.11.0
 	github.com/aerogear/charmil v0.8.3
@@ -24,7 +24,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/redhat-developer/app-services-sdk-go/accountmgmt v0.1.0
 	github.com/redhat-developer/app-services-sdk-go/kafkainstance v0.6.0
-	github.com/redhat-developer/app-services-sdk-go/kafkamgmt v0.9.0
+	github.com/redhat-developer/app-services-sdk-go/kafkamgmt v0.10.0
 	github.com/redhat-developer/app-services-sdk-go/registryinstance v0.3.1
 	github.com/redhat-developer/app-services-sdk-go/registrymgmt v0.6.1
 	github.com/redhat-developer/service-binding-operator v0.9.0
